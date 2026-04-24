@@ -11,15 +11,22 @@ Easily customizable for different sunglasses styles and image types
 ## Technologies Used
 Python
 OpenCV – for image processing and face detection
+
 NumPy – for numerical operations and array handling
 ## How to Use
-Clone this repository
-Add your passport-size photo to the images folder
-Run the script
-View your “cool” transformed image 
+1)Clone this repository
+
+2)Add your passport-size photo to the images folder
+
+3)Run the script
+
+4)View your “cool” transformed image 
 ## Applications
 Learning the basics of image processing and computer vision
+
 Experimenting with face detection and overlays
+
 Adding creative effects to personal photos
+
 Building a foundation for more advanced AI/vision projects
 
