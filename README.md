@@ -2,7 +2,7 @@
 Study Octo Disco is a fun and creative image processing project that automatically adds stylish sunglasses to passport-size photos. It’s designed as an engaging way to explore basic computer vision techniques while producing playful and visually appealing results.
 
 ## Overview
-Welcome to Study Octo Disco! This project demonstrates how to detect faces in images and overlay sunglasses accurately, transforming ordinary photos into something fun and unique. Whether you're a beginner in computer vision or just experimenting with creative coding, this project is a great place to start.
+This project demonstrates how to detect faces in images and overlay sunglasses accurately, transforming ordinary photos into something fun and unique. Whether you're a beginner in computer vision or just experimenting with creative coding, this project is a great place to start.
 ## Features
 Detects faces in an image using computer vision techniques
 Accurately positions a sunglasses overlay on the detected face
