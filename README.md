@@ -21,8 +21,10 @@ NumPy – for numerical operations and array handling
 5)Place it on the face
 ## input image
 <img width="459" height="554" alt="image" src="https://github.com/user-attachments/assets/71a6dd38-a7df-43b7-8ac8-928c6c58cad7" />
+
 ## sunglasses
 <img width="694" height="355" alt="image" src="https://github.com/user-attachments/assets/c3c4cfbd-744b-4e9e-b57a-0b62c352b613" />
+
 ## output image
 <img width="537" height="812" alt="image" src="https://github.com/user-attachments/assets/9b692013-cf3c-43c7-856d-aef11556d683" />
 
