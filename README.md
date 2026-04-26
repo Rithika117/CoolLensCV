@@ -15,9 +15,13 @@ OpenCV – for image processing and face detection
 NumPy – for numerical operations and array handling
 ## How to Use
 1)Load your photo
+
 2)Detect the face
+
 3)Find the eye area
+
 4)Fit the sunglasses to that area
+
 5)Place it on the face
 ## input image
 <img width="459" height="554" alt="image" src="https://github.com/user-attachments/assets/71a6dd38-a7df-43b7-8ac8-928c6c58cad7" />
